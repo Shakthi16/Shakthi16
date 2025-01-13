@@ -33,5 +33,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakthi16&show_icons=true&locale=en&layout=compact" alt="shakthi16" /></p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakthi16" alt="GitHub Streak" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=shakthi16)
 </div>
