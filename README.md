@@ -14,9 +14,9 @@
 
 - 📫 How to reach me **srishakthi799@gmail.com**
 
--  📄 Know about my experiences [https://www.linkedin.com/in/shakthisri/)
+-  📄 Know about my projects [https://www.linkedin.com/in/shakthisri/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10t8C7f6eSfaFj13VAbYrZ0kpXmeKd8xR/view?usp=drive_link](https://drive.google.com/file/d/10t8C7f6eSfaFj13VAbYrZ0kpXmeKd8xR/view?usp=drive_link)
+- 📄 Know about my experiences [shakthi_resume](https://drive.google.com/file/d/1_9JOF6QzR5I14L0_iQjXG_lIEUDIYxLt/view)
 
 - ⚡ Fun fact **Turns out coding isn't just a hobby—it's my superpower. Check out my resume for proof!**
 
