@@ -1,5 +1,5 @@
-[![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif
-)]
+![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif
+)
 <h1 align="center">Hi 👋, I'm Shakthi Sri</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif">
@@ -13,6 +13,8 @@
 - 💬 Ask me about **web development,python**
 
 - 📫 How to reach me **srishakthi799@gmail.com**
+
+-  📄 Know about my experiences [https://www.linkedin.com/in/shakthisri/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10t8C7f6eSfaFj13VAbYrZ0kpXmeKd8xR/view?usp=drive_link](https://drive.google.com/file/d/10t8C7f6eSfaFj13VAbYrZ0kpXmeKd8xR/view?usp=drive_link)
 
